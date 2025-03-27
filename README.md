@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jasmine! 👋
 
 <!--
 **t-jasmine/t-jasmine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I'm  a high school student from California
+- 🤖 I do electrical work for FRC
+- 🎮 I enjoy game development!
